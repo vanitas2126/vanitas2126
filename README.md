@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlwaDN4NGgzdzB5bWN0cThlc3Y5YzV5b2tsMTN5NTd5azQ0cHk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zRkeKuEz07wjjRNY7k/giphy.gif" width="100%" alt="Banner" />
+<img src="./Art Running GIF" width="100%" alt="Banner" />
 
 <!-- Teks mengetik animasi -->
 <a href="https://github.com/vanitas2126">
