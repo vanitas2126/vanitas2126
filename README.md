@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="./Art Running GIF" width="100%" alt="Banner" />
+<img src="./Art Running GIF.gif" width="100%" alt="Banner" />
 
 <!-- Teks mengetik animasi -->
 <a href="https://github.com/vanitas2126">
