@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="./Art Running GIF.gif" width="100%" alt="Banner" />
+<img src="./modern.png" width="100%" alt="Banner" />
 
 <!-- Teks mengetik animasi -->
 <a href="https://github.com/vanitas2126">
@@ -18,7 +18,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vanitas2126&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
@@ -27,7 +26,7 @@
 <!-- ======================= GIF ANIMASI ======================= -->
 <div align="center">
   <!-- Ganti link ini dengan GIF pilihanmu (Giphy / upload sendiri ke ./assets/) -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding animation" />
+  <img src="./modern.gif" width="600" alt="Coding animation" />
 </div>
 
 ---
@@ -35,7 +34,7 @@
 ## 👨‍💻 Tentang Saya
 
 - 💻 Software Engineer in the making
-- 🔭 Saat ini sedang mengerjakan aplikasi **full-stack web**
+- 🔭 Saat ini sebagai Mahasiswa Teknik Informatika **full-stack web**
 - 🌱 Sedang mendalami **Laravel, React, dan Python**
 - 🎨 Suka mendesain UI/UX dengan **Figma**
 - ⚡ Fun fact: kopi + kode = produktif ☕
@@ -95,6 +94,7 @@
 <a href="https://LINK_PORTOFOLIO_KAMU"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
+<img src="./Art Running GIF.gif" alt="profile views" />
 
 <br/>
 
