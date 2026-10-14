@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="./modern.png" width="100%" alt="Banner" />
+<img src="./modern.png" width="600" alt="Banner" />
 
 <!-- Teks mengetik animasi -->
 <a href="https://github.com/vanitas2126">
